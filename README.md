@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Coming Soon</b>
-  - []()
+- <b>Python</b>
+  - [Bouncing Ball Game](https://github.com/Isaiahpeoples/BouncingBallGame)
 
 <h2>📄 Certifications</h2>
 

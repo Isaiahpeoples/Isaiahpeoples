@@ -4,6 +4,7 @@
 
 - <b>Python</b>
   - [Bouncing Ball Game](https://github.com/Isaiahpeoples/BouncingBallGame)
+  - [Race for the Exit Game](https://github.com/Isaiahpeoples/RacefortheExitGame)
 
 <h2>📄 Certifications</h2>
 

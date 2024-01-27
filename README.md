@@ -3,13 +3,13 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Bouncing Ball Game](https://github.com/Isaiahpeoples/BouncingBallGame)
   - [Race for the Exit Game](https://github.com/Isaiahpeoples/RacefortheExitGame)
 
 <h2>📄 Certifications</h2>
 
-- [Comptia Network+](https://www.credly.com/users/isaiah-peoples/badges)
-- [Comptia Security +](https://www.credly.com/users/isaiah-peoples/badges)
+- [Amazon Web Services Cloud Practitioner](https://www.credly.com/badges/2bb9ac50-6072-4930-b3dd-31cfcd7711f0)
+- [Comptia Network+](https://www.credly.com/badges/21bfa8ee-eddd-4b90-94df-d7f8a34322bc)
+- [Comptia Security +](https://www.credly.com/badges/c6a91020-bc9f-4a8c-9dfd-4cb2172f0be1)
 
 <h2> 🤳 Connect with me:</h2>
 

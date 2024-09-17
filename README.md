@@ -126,7 +126,7 @@
  </ul>
  </div>
   <br>
-  <img alt="snake game using contribution chart" src="https://raw.githubusercontent.com/isaiahpeoples/isaiahpeoples/output/github-contribution-grid-snake.svg" />
+  <img alt="snake game using contribution chart" src="https://raw.githubusercontent.com/Isaiahpeoples/Isaiahpeoples/08e7ae9a16ac55ca7a511b01874cf8f80052e4c6/github-snake-dark.svg" />
   <br/><br/><br/>
 </div>
 

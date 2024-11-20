@@ -34,20 +34,17 @@
 </ul>
 </div>
 
-<a href="https://portfolio-ten-puce-52.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4999e9?style=for-the-badge&logo=About.me&logoColor=white" width="25%" height="25%" target="_blank" /> 
-  </a>
-
-<a href="https://www.linkedin.com/in/isaiah-peoples-a64653162/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4999e9?style=for-the-badge&logo=linkedin&logoColor=white" width="23%" height="23%" target="_blank" />
-  </a>
-</div>
-
 <div align="center"> 
+<a href="https://portfolio-ten-puce-52.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4999e9?style=for-the-badge&logo=About.me&logoColor=white&logoSize=auto" width="200" height="50" target="_blank" /> 
+  </a>
+  <a href="https://www.linkedin.com/in/isaiah-peoples-a64653162/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-4999e9?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" width="200" height="50" target="_blank" />
+  </a>
 <a href="mailto:isaiahcpeoples@outlook.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-4999e9?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="35%" height="35%" target="_blank" />
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-4999e9?style=for-the-badge&logo=microsoft-outlook&logoColor=white&logoSize=auto" width="200" height="50" target="_blank" />
    </a>
-   </div>
+</div>
 
   
 

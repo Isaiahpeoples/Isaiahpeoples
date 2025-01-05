@@ -58,8 +58,8 @@
 </div>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,vscode,java,bootstrap,html,css,js,git,github,py,php,react" />
-    <img src="https://skillicons.dev/icons?i=linux,figma,express,django,jquery,typescript,mongodb,mysql,nextjs,nodejs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=aws,vscode,java,bootstrap,html,css,js,git,github,py,php,vite,react" />
+    <img src="https://skillicons.dev/icons?i=linux,figma,express,androidstudio,jquery,typescript,supabase,mongodb,mysql,prisma,nextjs,redux,nodejs,tailwind" />
 <br>
 </div>
 
@@ -141,7 +141,7 @@
   <img width=400 src="https://github-readme-streak-stats-git-main-isaiahs-projects-fb9a6612.vercel.app?user=Isaiahpeoples&theme=react&border_radius=10&mode=weekly"/>
   <img width=380 src="https://github-readme-stats-jzs1-isaiahs-projects-fb9a6612.vercel.app/api?username=Isaiahpeoples&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/><br/>
-  <img width=425 align="center" src="https://github-readme-stats-jzs1-isaiahs-projects-fb9a6612.vercel.app/api/top-langs/?username=Isaiahpeoples&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" alt="top langs" />
+  <img width=425 align="center" src="https://github-readme-stats-jzs1-isaiahs-projects-fb9a6612.vercel.app/api/top-langs/?username=Isaiahpeoples&hide=HTML,scss,less&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" alt="top langs" />
 </div>
 
 

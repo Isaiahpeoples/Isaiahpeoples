@@ -46,13 +46,13 @@ Feel free to check out my work below :mag::open_file_folder:
 
 <div align="center">
 <a href="https://www.isaiahs-portfolio.app/" target="_blank">
-	<img src="https://img.shields.io/badge/Portfolio-4999e9?style=for-the-badge&logo=About.me&logoColor=white&logoSize=auto" width="200" height="50" target="_blank" />
+	<img src="https://img.shields.io/badge/Portfolio-4999e9?style=for-the-badge&logo=About.me&logoColor=white&logoSize=auto" width="200" height="50"/>
   </a>
   <a href="https://www.linkedin.com/in/isaiah-peoples-a64653162/" target="_blank">
-	<img src="https://img.shields.io/badge/LinkedIn-4999e9?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" width="200" height="50" target="_blank" />
+	<img src="https://img.shields.io/badge/LinkedIn-4999e9?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" width="200" height="50"/>
   </a>
 <a href="mailto:isaiahcpeoples@outlook.com">
-	<img src="https://img.shields.io/badge/Microsoft_Outlook-4999e9?style=for-the-badge&logo=microsoft-outlook&logoColor=white&logoSize=auto" width="200" height="50" target="_blank" />
+	<img src="https://img.shields.io/badge/Microsoft_Outlook-4999e9?style=for-the-badge&logo=microsoft-outlook&logoColor=white&logoSize=auto" width="200" height="50"/>
    </a>
 </div>
 

@@ -190,10 +190,10 @@ Here's a quick glimpse into my journey as a developer. Every streak and stat rep
 </br>
 
 <div align="center">
-  <img width=400 src="https://github-readme-streak-stats-git-main-isaiahs-projects-fb9a6612.vercel.app?user=Isaiahpeoples&theme=react&border_radius=10&mode=weekly"/>
-  <img width=380 src="https://github-readme-stats-jzs1-isaiahs-projects-fb9a6612.vercel.app/api?username=Isaiahpeoples&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=400 height=195 src="https://github-readme-stats-fast.vercel.app/api/streak?username=Isaiahpeoples&theme=react&border_radius=10&mode=weekly" alt="readme streak"/>
+  <img width=380 height=195 src="https://github-readme-stats-fast.vercel.app/api?username=Isaiahpeoples&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/><br/>
-  <img width=425 align="center" src="https://github-readme-stats-jzs1-isaiahs-projects-fb9a6612.vercel.app/api/top-langs/?username=Isaiahpeoples&hide=HTML,scss,less&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=400 height=195 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Isaiahpeoples&hide=HTML,scss,less&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/>
